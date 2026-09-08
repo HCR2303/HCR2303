@@ -65,3 +65,35 @@ Profesional con experiencia en el desarrollo y validación de aplicativos inform
     <img alt="Animación del historial de contribuciones" src="https://raw.githubusercontent.com/HCR2303/HCR2303/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+## 🚀 Proyectos Destacados
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Spring-Library</h3>
+      <p>Modelo conceptual de la gestión de una biblioteca mediante Spring-Boot desde API hasta cliente mediante protocolos REST</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏱️ ChronosClone</h3>
+      <p>Desarrollo backend de una herramienta personalizada para la orquestación automatizada. Capaz de lanzar, monitorear y detener de forma segura procesos de respaldo de imágenes de disco en segundo plano.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 BioValidaTech</h3>
+      <p>Software automatizado para minimizar tiempos de cálculo manual en validaciones de laboratorio. Estructuración con controladores y lógica de inicialización de objetos para asegurar el cumplimiento normativo.</p>
+      <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 StockTech</h3>
+      <p>Aplicativo multiusuario diseñado e implementado para la gestión de compras y administración de almacén, directamente vinculado a una base de datos relacional corporativa centralizada.</p>
+      <img src="https://img.shields.io/badge/VBA-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bases_de_Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
