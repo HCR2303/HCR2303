@@ -56,6 +56,55 @@ Profesional con experiencia en el desarrollo y validación de aplicativos inform
 
 ---
 
+## 🚀 Proyectos Destacados
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Spring-Boot-Library</h3>
+      <p>Sistema distribuido (puertos 8081 y 8082) para la administración de acervo bibliotecario, préstamos y devoluciones. Incluye perfiles H2/MySQL e integración con Docker.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 NexoDose</h3>
+      <p>Modelado conceptual de una plataforma de microservicios con interfaz de chatbot, diseñada para la agregación segura de datos entre sistemas TrackWise y SAP.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ ChronosClone</h3>
+      <p>Desarrollo backend de una herramienta para orquestación automatizada. Capaz de lanzar, monitorear y detener procesos de respaldo de disco en segundo plano vía CLI.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 StockTech</h3>
+      <p>Aplicativo multiusuario diseñado para la gestión de compras y administración de almacén corporativo, vinculado a una base de datos centralizada con concurrencia ADODB.</p>
+      <img src="https://img.shields.io/badge/VBA-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bases_de_Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 BioValidaTech</h3>
+      <p>Software automatizado para minimizar tiempos de cálculo en validaciones de laboratorio bajo lineamientos de calidad, estructurado con lógica rigurosa de objetos.</p>
+      <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Explorar Repositorios</h3>
+      <p>Navega a través de mi perfil para visualizar más soluciones de automatización, herramientas de laboratorio y configuraciones de infraestructura backend.</p>
+      <a href="https://github.com/HCR2303?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver_Proyectos-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 Actividad Actual
 
 <div align="center">
@@ -65,35 +114,3 @@ Profesional con experiencia en el desarrollo y validación de aplicativos inform
     <img alt="Animación del historial de contribuciones" src="https://raw.githubusercontent.com/HCR2303/HCR2303/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-## 🚀 Proyectos Destacados
-
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Spring-Library</h3>
-      <p>Modelo conceptual de la gestión de una biblioteca mediante Spring-Boot desde API hasta cliente mediante protocolos REST</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⏱️ ChronosClone</h3>
-      <p>Desarrollo backend de una herramienta personalizada para la orquestación automatizada. Capaz de lanzar, monitorear y detener de forma segura procesos de respaldo de imágenes de disco en segundo plano.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 BioValidaTech</h3>
-      <p>Software automatizado para minimizar tiempos de cálculo manual en validaciones de laboratorio. Estructuración con controladores y lógica de inicialización de objetos para asegurar el cumplimiento normativo.</p>
-      <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 StockTech</h3>
-      <p>Aplicativo multiusuario diseñado e implementado para la gestión de compras y administración de almacén, directamente vinculado a una base de datos relacional corporativa centralizada.</p>
-      <img src="https://img.shields.io/badge/VBA-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bases_de_Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-</table>
